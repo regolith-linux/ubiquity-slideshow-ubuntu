@@ -1,18 +1,6 @@
 # Makefile for ubiquity-slideshow-ubuntu
 
 SLIDESHOWS = \
-	ubuntu \
-	kubuntu \
-	xubuntu \
-	lubuntu \
-	edubuntu \
-	ubuntustudio \
-	ubuntu-budgie \
-	ubuntukylin \
-	ubuntu-mate \
-	oem-config-ubuntu \
-	oem-config-ubuntu-mate \
-	oem-config-ubuntu-budgie \
 	regolith
 
 SOURCE ?= .

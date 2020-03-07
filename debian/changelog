@@ -1,3 +1,9 @@
+ubiquity-slideshow-ubuntu (138-ubuntu1~regolith1) bionic; urgency=medium
+
+  * Copy content from Xubuntu for Regolith slideshow.
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 07 Mar 2020 09:07:34 -0800
+
 ubiquity-slideshow-ubuntu (138) bionic; urgency=medium
 
   * Update translations from Launchpad (LP: #1767048).

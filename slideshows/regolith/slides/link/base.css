@@ -76,7 +76,7 @@ img {
 }
 
 #slideshow {
-	color: #fff;
+	color: #3B4252;
 
 	width: 650px;
 	min-height: 380px;
@@ -151,7 +151,7 @@ html, body {
 }
 
 body {
-	background: #1692b1 radial-gradient( circle farthest-corner at -20% 120%, #1692b1 0%, #006882 90% );
+	background: #ECEFF4 radial-gradient( circle farthest-corner at -20% 120%, #ECEFF4 0%, #D8DEE9 90% );
 	font-size: 85%;
 	line-height: 1.6em;
 }
@@ -189,7 +189,7 @@ body {
  */
 
 a {
-	color: #fff;
+	color: #5E81AC;
 	text-decoration: none;
 	border-bottom: 1px solid rgba( 255, 255, 255, 0.75 );
 }
@@ -223,16 +223,11 @@ h2 {
  *
  */
 
-/*  Background images that span over multiple slides  */
-.slide.mouse_left { background: transparent url(../images/bg_mouse_left.png) 100% 100% no-repeat; }
-.slide.mouse_right { background: transparent url(../images/bg_mouse_right.png) 0 100% no-repeat; }
-
-
 /*  Welcome  */
 .slide#welcome .content {
 	width: 70%;
 }
-	.slide#welcome #xubuntu_icon {
+	.slide#welcome #regolith_icon {
 		position: absolute;
 		top: 40px;
 		right: 40px;
@@ -257,7 +252,7 @@ h2 {
 		margin: 0 0.5em 0.5em 0;
 		padding: 0.5em 0.75em;
 		background-color: rgba( 255, 255, 255, 0.9 );
-		color: #2c82dd;
+		color: #3B4252;
 		box-shadow: 0 0 5px rgba( 0, 0, 0, 0.1 );
 		border-bottom: 2px solid #7cb8f7;
 		transition: color 0.3s ease-in-out, border 0.3s ease-in-out;

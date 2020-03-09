@@ -1,3 +1,9 @@
+ubiquity-slideshow-ubuntu (138.2-ubuntu1~regolith1) bionic; urgency=medium
+
+  * Remove regolith content, add logo. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 08 Mar 2020 17:26:01 -0700
+
 ubiquity-slideshow-ubuntu (138.1-ubuntu1~regolith1) bionic; urgency=medium
 
   * Add Regolith content.  Remove non-regolith content.  Visual tweaks. 

@@ -1,8 +1,10 @@
-ubiquity-slideshow-ubuntu (138.5-ubuntu1~regolith1) bionic; urgency=medium
+ubiquity-slideshow-ubuntu (138.6-ubuntu1~regolith1) bionic; urgency=medium
 
-  * More image tweaks. 
+  * Update virtual packages to allow Regolith variant to exist on Ubuntu
+    livecd.
+  * Resize image to better fit dialog 
 
- -- Regolith Linux <regolith.linux@gmail.com>  Sat, 14 Mar 2020 09:32:17 -0700
+ -- Regolith Linux <regolith.linux@gmail.com>  Tue, 27 Apr 2021 20:04:31 -0700
 
 ubiquity-slideshow-ubuntu (138.4-ubuntu1~regolith1) bionic; urgency=medium
 

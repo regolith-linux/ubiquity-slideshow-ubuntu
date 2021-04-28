@@ -10,7 +10,7 @@ Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
 
 Package: ubiquity-slideshow-regolith
 Architecture: all
-Provides: ubiquity-slideshow
+Provides: ubiquity-slideshow, ubiquity-artwork-21.04.19, ubiquity-artwork-20.04.15, ubiquity-artwork-18.04.14
 Conflicts: ubiquity-slideshow
 Replaces: ubiquity-slideshow
 Depends: ${misc:Depends}

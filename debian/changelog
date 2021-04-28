@@ -1,4 +1,4 @@
-ubiquity-slideshow-ubuntu (138.6-ubuntu1~regolith1) bionic; urgency=medium
+ubiquity-slideshow-ubuntu (138.7-ubuntu1~regolith1) focal; urgency=medium
 
   * Update virtual packages to allow Regolith variant to exist on Ubuntu
     livecd.

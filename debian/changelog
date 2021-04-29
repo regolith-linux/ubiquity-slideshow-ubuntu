@@ -1,3 +1,10 @@
+ubiquity-slideshow-ubuntu (168.3-ubuntu1~regolith1) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * UI tweaks
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Wed, 28 Apr 2021 21:39:13 -0700
+
 ubiquity-slideshow-ubuntu (168.2-ubuntu1~regolith1) focal; urgency=medium
 
   * Update virtual packages to allow Regolith variant to exist on Ubuntu
